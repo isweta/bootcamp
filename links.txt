@@ -1,0 +1,5 @@
+
+
+To configure the Flow Monitoring service on R1, perform the following steps in configuration mode.
+http://www.brocade.com/content/html/en/administration-guide/vyatta_5600_manual/wwhelp/wwhimpl/js/html/wwhelp.htm#href=QoS/QoS%20Commands.5.02.html
+http://www.brocade.com/content/html/en/administration-guide/vyatta_5600_manual/wwhelp/wwhimpl/js/html/wwhelp.htm#href=QoS/QoS%20Commands.5.02.html

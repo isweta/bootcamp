@@ -1,0 +1,20 @@
+Configuring sFlow on router
+set service sFlow
+set service sflow agent-address <address of one of the interfaces on the router>
+set service sflow polling-interval 3
+set service sflow server-port 6343 server-address <address of collector, should be on the same subnet as the agent>
+set service sflow sampling-rate 512
+commit
+save
+run show sflow
+set interfaces dataplane dp0p192p1 sflow
+commit
+save
+run show sflow
+
+sFlowTrend-Pro
+
+create agent
+set snmp address = agent address
+
+change sflow colector address
