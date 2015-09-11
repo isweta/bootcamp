@@ -1,4 +1,4 @@
-Configuring sFlow on router
+-------------------Configuring sFlow on router---------------------------
 set service sFlow
 set service sflow agent-address <address of one of the interfaces on the router>
 set service sflow polling-interval 3
@@ -12,9 +12,42 @@ commit
 save
 run show sflow
 
-sFlowTrend-Pro
+---------------sFlowTrend-Pro----------------------------
 
 create agent
 set snmp address = agent address
 
 change sflow colector address
+
+----------------enabling shared folders ubuntu----------------
+How to share folders between Windows and Ubuntu using VMware Player
+
+Create a folder in your Windows file system that you want to use as the share. Make sure it’s in a location where your user account has full access rights.
+Power down the VM shutting down Ubuntu
+Select your VM in VMware Player and click Edit virtual machine settings 
+VMware Player: edit virtual machine settings
+In the Options tab click Shared Folders in the left hand pane 
+VMware Player: settings & options
+ Click Always enabled in the right and pane and click Add…
+This will take you into the “Add Shared Folder Wizard” 
+VMware Player: Add Shared Folder Wizard
+Click Next and follow the prompts selecting the folder you created in Step 1
+Also name the share – this is the name that the folder will have in Ubuntu
+You will come back to the Settings screen with your share added 
+VMware Player: folder sharing enabled
+Click OK to close the settings
+Play the VM to boot Ubuntu
+Shared folders in Ubuntu appear in the location /mnt/hgfs but you probably won’t be able to see it
+To check to see if Ubuntu is aware that there is a shared folder available run thi
+s command in a terminal window vmware-hgfsclient 
+This will output the share name into the terminal window, e.g. 
+$ vmware-hgfsclient WinLinShare
+So far so good! Now we need to run the VMWare config tools. In terminal enter sudo vmware-config-tools.pl
+Follow the prompts, accepting the default values
+Check to see that your folder is now showing in the /mnt/hgfs directory $ dir /mnt/hgfs WinLinShare
+Share folder permissions across Ubuntu Virtual Machine & Windows Host
+Finally, here’s a little trick to share folder permissions across Ubuntu Virtual Machine & Windows Host. This also gives you quick access to the folder from your Ubuntu desktop. Enter this into terminal:
+
+ln -s /mnt/hgfs/shared-directory ~/Desktop/Name-of-the-folder  
+And there you have it, your Windows folder is now fully accessible and usable from your Ubuntu VM. The script files for the rest of my Knowing Node series will be based in this directory. 
+
