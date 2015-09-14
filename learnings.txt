@@ -1,0 +1,3 @@
+pip
+	packet manager to install soft packages written in python
+	
