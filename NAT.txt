@@ -1,0 +1,4 @@
+NAT
+
+translate one set of addresses to other
+traffic coming from a specific host to appear as though it is coming from another and do it transparently
