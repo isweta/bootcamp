@@ -1,3 +1,12 @@
 pip
 	packet manager to install soft packages written in python
+	installs pakages in usr/local/lib/python2.7/dist-packages
+	
+Unix
+	/bin	This is where the executable files are located. They are available to all user.
+	/etc	Supervisor directory commands, configuration files, disk configuration files, valid user lists, groups, ethernet, hosts, where to send critical messages.
+	/lib	Contains shared library files and sometimes other kernel-related files.
+	/usr	Used for miscellaneous purposes, or can be used by many users. Includes administrative commands, shared files, library files, and others
+	/var	Typically contains variable-length files such as log and print files and any other type of file that may contain a variable amount of data
+	/sbin	Contains binary (executable) files, usually for system administration. For example fdisk and ifconfig utlities.
 	

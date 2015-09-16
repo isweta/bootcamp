@@ -1,0 +1,12 @@
+turn any directory in your system into your web server directory
+ very useful to share files inside your local network. 
+ share the directory /home/hisam and my IP address is 192.168.1.2
+
+Open up a terminal and type:
+
+$ cd /home/somedir
+$ python -m SimpleHTTPServer
+
+
+
+wget 10.76.110.93:8000/Downloads/libpcap-1.7.4.tar
