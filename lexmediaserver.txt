@@ -1,0 +1,7 @@
+plexmediaserver
+1.Download plexmediaserver
+2.copied it to ubuntu's /opt dir
+3.duble vlick to istall
+Download the .deb package
+run sudo dpkg -i plexmediaserver_0.9.8.18.290-11b7fdd_amd64.deb (replacing the last filename with the name of the package you downloaded)
+To setup the Server, on the same machine you installed the Server on, open a browser window, and go to http://127.0.0.1:32400/web.

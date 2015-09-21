@@ -1,0 +1,44 @@
+JSON
+import org.apache.commons.codec.binary.Base64;
+public class HttpPut {
+    public static void main(String[] args) throws Exception {
+        Random random = new Random();
+		String name="vyatta";
+		String pass="vyatta";
+		String authString = name + ":" + pass;
+		byte[] authEncBytes = Base64.encodeBase64(authString.getBytes());
+		String authStringEnc = new String(authEncBytes);
+        URL url = new URL("http://fltspc.itu.dk/widget/515318fe17450f312b00153d/");
+        HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+        connection.setRequestMethod("PUT");
+        connection.setDoOutput(true);
+        connection.setRequestProperty("Content-Type", "application/json");
+        connection.setRequestProperty("Accept", "application/json");
+		connection.setRequestProperty("Authorization", "Basic " + authStringEnc);
+        OutputStreamWriter osw = new OutputStreamWriter(connection.getOutputStream());
+        osw.write(String.format("{\"pos\":{\"left\":%1$d,\"top\":%2$d}}", random.nextInt(30), random.nextInt(20)));
+        osw.flush();
+        osw.close();
+        System.err.println(connection.getResponseCode());
+    }
+}
+
+
+To enable HTTPs on the Vyatta system, issue the following commands at the Vyatta command prompt.
+ 
+Description
+Command
+Enter configuration mode.
+vyatta@vyatta:~$ configure
+vyatta@vyatta#
+Enable HTTPs on the system.
+vyatta@vyatta# set service https
+Commit the change.
+vyatta@vyatta# commit
+Save the change so that it will be available after a system reboot.
+vyatta@vyatta# save
+Saving configuration to '/config/config.boot'...
+Done
+Return to operational mode.
+vyatta@vyatta# exit
+vyatta@vyatta:~$ 

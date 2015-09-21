@@ -10,3 +10,11 @@ Unix
 	/var	Typically contains variable-length files such as log and print files and any other type of file that may contain a variable amount of data
 	/sbin	Contains binary (executable) files, usually for system administration. For example fdisk and ifconfig utlities.
 	
+Port forwarding via SSH (SSH tunneling) creates a secure connection between a local computer and a remote machine through which services can be relayed. Because the connection is encrypted, SSH tunneling is useful for transmitting information that uses an unencrypted protocol, such as IMAP, VNC, or IRC
+
+
+
+If you wish to send an empty post request, it will give error 411
+send a dummy string instead
+
+oneormore spaces ignore \\s++
