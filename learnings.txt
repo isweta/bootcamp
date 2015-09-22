@@ -18,3 +18,9 @@ If you wish to send an empty post request, it will give error 411
 send a dummy string instead
 
 oneormore spaces ignore \\s++
+
+
+
+JAVA Streams
+1. process without how to- process data in a declarative way
+2. process large collections- leverage multi-core architectures without you having to write a single line of multithread code

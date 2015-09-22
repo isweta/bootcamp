@@ -26,3 +26,20 @@ Work Done:
 	http://www.tutorialspoint.com/http/index.htm
 5. Reading broacde doc , operation al commands rest api	
 6. installed subsonic audio streaming server
+
+
+22/9/15
+Target 
+	Work
+	1. Complete publish data in better manner---done
+	2. streaming vs video conferencing
+	3. Stream processing the data
+	
+	Learning
+	1. java 8 streams api
+	2. java 8 concurrency
+	3.format java strings
+	4. statistics
+
+
+
