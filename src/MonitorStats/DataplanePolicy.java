@@ -13,6 +13,8 @@ import org.json.JSONObject;
 
 public class DataplanePolicy {
 	
+	
+	
 
 	public static String getDataplanePolicyName() {
 		String str = getJSONString();
@@ -21,7 +23,7 @@ public class DataplanePolicy {
 		JSONObject dataplane = (JSONObject) dataplanes.get(0);
 		String policyname = dataplane.getString("vyatta-policy-qos:qos-policy");
 
-		System.out.println(policyname);
+		//System.out.println(obj);
 
 		// return policyname;
 		return policyname;
@@ -57,8 +59,8 @@ public class DataplanePolicy {
 		}
 
 		if (code != 200) {
-			System.out.println("No Such Policy");
-			System.out.println(code);
+			//System.out.println("No Such Policy");
+			//System.out.println(code);
 			System.exit(0);
 
 		}

@@ -18,6 +18,7 @@ import java.net.URL;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Base64;
+import java.util.HashMap;
 import java.util.Objects;
 import java.util.Random;
 
@@ -84,8 +85,13 @@ public class StatsCollector {
 				ArrayList<Datagram> allTrafficClasses = new ArrayList<Datagram>();
 
 				LocalDateTime currTime = readData(connection, CumulativeAllTrafficClasses, allTrafficClasses, response);
-				buildDataPacket(CumulativeAllTrafficClasses, allTrafficClasses);
-				printData(currTime, allTrafficClasses);
+				double secDiff=buildDataPacket(CumulativeAllTrafficClasses, allTrafficClasses);
+				String policyName=DataplanePolicy.getDataplanePolicyName();
+				DataplanePolicyDescription.getDataplanePolicyDescription(policyName);
+				HashMap<Integer, String> descMap=DataplanePolicyDescription.getDescMap();
+				HashMap<Integer, String> bwMap=DataplanePolicyDescription.getBwMap();
+				if(secDiff!=-1.0)
+					prettyprintData(descMap, bwMap, secDiff, currTime, allTrafficClasses);
 				prevCumulativeAllTrafficClasses = CumulativeAllTrafficClasses;
 
 			}
@@ -145,6 +151,7 @@ public class StatsCollector {
 			// fout.append("\n\n\nIn the last " + sec + " sec ");
 			System.out.println("\n" + currTime);
 			fout.append("\n" + currTime);
+			
 			System.out.println("\nClass\t\tPackets\t\tbytes\t\ttaildrop\tredDrop\tspeed(kBps)");
 			// fout.append("\nClass,Packets,bytes,taildrop,redDrop,speed(kbps)");
 			fout.append("\nClass\t\tPackets\t\tbytes\t\ttaildrop\tredDrop\tspeed(kBps)");
@@ -154,6 +161,67 @@ public class StatsCollector {
 				fout.append("\n" + datagram.prettyPrint());
 			}
 			fout.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+	
+	public static void prettyprintData(HashMap<Integer, String> descMap, HashMap<Integer, String> bwMap,double secDiff, LocalDateTime currTime, ArrayList<Datagram> allTrafficClasses) {
+		FileWriter fout;
+		FileWriter foutCurr;
+		try {
+			fout = new FileWriter("C:\\Users\\Public\\Documents\\files\\src\\MonitorStats\\data2.txt", true);
+			foutCurr=new FileWriter("C:\\Users\\Public\\Documents\\files\\src\\MonitorStats\\dataCurr.txt");
+			// fout.append("\n\n\nIn the last " + sec + " sec ");
+			System.out.println("\nTimeStamp:" + currTime);
+			fout.append("\nTimeStamp:" + currTime);
+			foutCurr.append("\nTimeStamp:" + currTime);
+			System.out.println("In_the_last_"+secDiff+"_seconds");
+			fout.append("\nIn_the_last_"+secDiff+"_seconds");
+			foutCurr.append("\nIn_the_last_"+secDiff+"_seconds");
+			
+			
+			//System.out.println("TypeofService\t\t\tPriority\t\t\tBandwidthAllocated\t\t\tPacketsSent\t\t\tBytesSent\t\t\tDelayedPackets\t\t\tRateofTransfer(kBps)");
+			// fout.append("\nClass,Packets,bytes,taildrop,redDrop,speed(kbps)");
+			System.out.println(String.format("%-30s%-20s%-20s%-20s%-20s%-20s","TypeofService","Priority","BandwidthAllocated","PacketsCount","BytesCount","DelayedPackets"));
+			fout.append("\n");
+			foutCurr.append("\n");
+			fout.append(String.format("%-30s%-20s%-20s%-20s%-20s%-20s","TypeofService","Priority","BandwidthAllocated","PacketsCount","BytesCount","DelayedPackets"));
+			foutCurr.append(String.format("%-30s%-20s%-20s%-20s%-20s%-20s","TypeofService","Priority","BandwidthAllocated","PacketsCount","BytesCount","DelayedPackets"));
+			for (Datagram datagram : allTrafficClasses) {
+				System.out.print(String.format ("%-30s", (descMap.get(datagram.getPrio()).replaceAll(" ", "_") )));
+				System.out.print(String.format("%-20s",datagram.getPrio()));
+				System.out.print(String.format("%-20s",bwMap.get(datagram.getPrio())));
+				System.out.print(String.format("%-20s",datagram.getPackets()));
+				System.out.print(String.format("%-20s",datagram.getBytes()));
+				System.out.print(String.format("%-20s",datagram.getTailDrop()));
+				//System.out.print(String.format("%-30s",datagram.getSpeed()));
+				System.out.println("");
+				
+				fout.append("\n");
+				fout.append(String.format ("%-30s", (descMap.get(datagram.getPrio()).replaceAll(" ", "_") )));
+				fout.append(String.format("%-20s",datagram.getPrio()));
+				fout.append(String.format("%-20s",bwMap.get(datagram.getPrio())));
+				fout.append(String.format("%-20s",datagram.getPackets()));
+				fout.append(String.format("%-20s",datagram.getBytes()));
+				fout.append(String.format("%-20s",datagram.getTailDrop()));
+				//fout.append(String.format("%-30s",datagram.getSpeed()));
+				
+				
+				foutCurr.append("\n");
+				foutCurr.append(String.format ("%-30s", (descMap.get(datagram.getPrio()).replaceAll(" ", "_") )));
+				foutCurr.append(String.format("%-20s",datagram.getPrio()));
+				foutCurr.append(String.format("%-20s",bwMap.get(datagram.getPrio())));
+				foutCurr.append(String.format("%-20s",datagram.getPackets()));
+				foutCurr.append(String.format("%-20s",datagram.getBytes()));
+				foutCurr.append(String.format("%-20s",datagram.getTailDrop()));
+				//foutCurr.append(String.format("%-30s",datagram.getSpeed()));
+				
+			}
+			fout.close();
+			foutCurr.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -180,7 +248,7 @@ public class StatsCollector {
 		}
 	}
 
-	public static void buildDataPacket(ArrayList<Datagram> CumulativeAllTrafficClasses,
+	public static double buildDataPacket(ArrayList<Datagram> CumulativeAllTrafficClasses,
 			ArrayList<Datagram> allTrafficClasses) {
 		double secDiff = 0;
 
@@ -188,7 +256,7 @@ public class StatsCollector {
 			if (prevCumulativeAllTrafficClasses == null) {
 				// ignore the first datagram
 				prevCumulativeAllTrafficClasses = CumulativeAllTrafficClasses;
-				return;
+				return -1.0;
 			}
 			Datagram prevcum = prevCumulativeAllTrafficClasses.get(di);
 			Datagram newcum = CumulativeAllTrafficClasses.get(di);
@@ -203,11 +271,12 @@ public class StatsCollector {
 			long num = datagram.getBytes();
 			double denom = 1024 * secDiff;
 			double speed = num / denom;
-
+						
 			datagram.setSpeed(speed);
 			allTrafficClasses.add(datagram);
 
 		}
+		return secDiff;
 	}
 
 	public static void analyseDatagram() {

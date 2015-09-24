@@ -1,0 +1,1443 @@
+
+TimeStamp:2015-09-24T15:49:45.902
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             36                  1944                0                   
+Default                       3                   300kbps             37                  20735               0                   
+TimeStamp:2015-09-24T15:49:47.785
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             33                  20023               0                   
+TimeStamp:2015-09-24T15:49:49.667
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             38                  20764               0                   
+TimeStamp:2015-09-24T15:49:51.566
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  21005               0                   
+TimeStamp:2015-09-24T15:49:53.459
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20563               0                   
+TimeStamp:2015-09-24T15:49:55.345
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             39                  20967               0                   
+TimeStamp:2015-09-24T15:49:57.420
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             43                  2369                0                   
+Default                       3                   300kbps             40                  20401               0                   
+TimeStamp:2015-09-24T15:49:59.494
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2249                0                   
+Default                       3                   300kbps             43                  21122               0                   
+TimeStamp:2015-09-24T15:50:01.387
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:50:03.294
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             36                  20417               0                   
+TimeStamp:2015-09-24T15:50:05.213
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            54                  70574               0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2126                0                   
+Default                       3                   300kbps             42                  21011               0                   
+TimeStamp:2015-09-24T15:50:07.120
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            394                 558746              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             48                  3972                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:50:09.034
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            339                 512033              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             43                  21122               0                   
+TimeStamp:2015-09-24T15:50:10.975
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            337                 509101              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:50:13.303
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            339                 512011              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2226                0                   
+Default                       3                   300kbps             41                  20855               0                   
+TimeStamp:2015-09-24T15:50:15.203
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            405                 611937              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             44                  21343               0                   
+TimeStamp:2015-09-24T15:50:17.538
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            341                 500239              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:50:19.449
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            414                 626796              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2573                0                   
+Default                       3                   300kbps             49                  21720               0                   
+TimeStamp:2015-09-24T15:50:21.815
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            338                 509380              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2160                0                   
+Default                       3                   300kbps             39                  20843               0                   
+TimeStamp:2015-09-24T15:50:24.161
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            435                 657377              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             50                  2724                0                   
+Default                       3                   300kbps             47                  21545               0                   
+TimeStamp:2015-09-24T15:50:26.472
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            393                 593769              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             42                  21103               0                   
+TimeStamp:2015-09-24T15:50:28.801
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            416                 606548              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2585                0                   
+Default                       3                   300kbps             42                  21067               0                   
+TimeStamp:2015-09-24T15:50:31.128
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 615081              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2573                0                   
+Default                       3                   300kbps             42                  20822               0                   
+TimeStamp:2015-09-24T15:50:33.457
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 614963              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2550                0                   
+Default                       3                   300kbps             52                  27075               0                   
+TimeStamp:2015-09-24T15:50:35.772
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 614965              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             42                  21109               0                   
+TimeStamp:2015-09-24T15:50:37.668
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            417                 615314              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2585                0                   
+Default                       3                   300kbps             48                  21679               0                   
+TimeStamp:2015-09-24T15:50:39.973
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            331                 499921              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             47                  21754               0                   
+TimeStamp:2015-09-24T15:50:41.886
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            402                 606276              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             47                  21813               0                   
+TimeStamp:2015-09-24T15:50:43.796
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            336                 508704              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2226                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:50:45.710
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            337                 508985              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2184                0                   
+Default                       3                   300kbps             40                  20845               0                   
+TimeStamp:2015-09-24T15:50:48.054
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            346                 509280              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             40                  20777               0                   
+TimeStamp:2015-09-24T15:50:50.406
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            426                 644964              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             49                  2681                0                   
+Default                       3                   300kbps             52                  22466               0                   
+TimeStamp:2015-09-24T15:50:52.727
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            387                 582118              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             45                  2442                0                   
+Default                       3                   300kbps             48                  21703               0                   
+TimeStamp:2015-09-24T15:50:55.048
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            416                 629824              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             48                  2592                0                   
+Default                       3                   300kbps             45                  21321               0                   
+TimeStamp:2015-09-24T15:50:56.951
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            419                 615896              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2585                0                   
+Default                       3                   300kbps             44                  21267               0                   
+TimeStamp:2015-09-24T15:50:58.835
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            322                 487508              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  21065               0                   
+TimeStamp:2015-09-24T15:51:01.148
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            107                 157709              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             39                  20470               0                   
+TimeStamp:2015-09-24T15:51:03.053
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            340                 512317              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             49                  2682                0                   
+Default                       3                   300kbps             56                  22569               0                   
+TimeStamp:2015-09-24T15:51:06.439
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            330                 499620              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2184                0                   
+Default                       3                   300kbps             48                  21841               0                   
+TimeStamp:2015-09-24T15:51:08.735
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            599                 891089              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             69                  3773                0                   
+Default                       3                   300kbps             64                  23551               0                   
+TimeStamp:2015-09-24T15:51:11.073
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 615081              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2573                0                   
+Default                       3                   300kbps             46                  21470               0                   
+TimeStamp:2015-09-24T15:51:13.405
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            408                 615264              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2550                0                   
+Default                       3                   300kbps             43                  21289               0                   
+TimeStamp:2015-09-24T15:51:15.736
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 614965              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             44                  21343               0                   
+TimeStamp:2015-09-24T15:51:17.658
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            418                 618288              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             49                  2693                0                   
+Default                       3                   300kbps             83                  25653               0                   
+TimeStamp:2015-09-24T15:51:20.029
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            336                 508704              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             75                  24770               0                   
+TimeStamp:2015-09-24T15:51:21.927
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            414                 624444              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             50                  22027               0                   
+TimeStamp:2015-09-24T15:51:24.235
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            336                 508704              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2280                0                   
+Default                       3                   300kbps             49                  21645               0                   
+TimeStamp:2015-09-24T15:51:26.549
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            413                 609482              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             52                  2891                0                   
+Default                       3                   300kbps             58                  22862               0                   
+TimeStamp:2015-09-24T15:51:28.845
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            399                 602876              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             45                  2477                0                   
+Default                       3                   300kbps             53                  22041               0                   
+TimeStamp:2015-09-24T15:51:31.197
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 615081              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             49                  2681                0                   
+Default                       3                   300kbps             54                  22506               0                   
+TimeStamp:2015-09-24T15:51:33.311
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            455                 687635              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             51                  2766                0                   
+Default                       3                   300kbps             58                  22997               0                   
+TimeStamp:2015-09-24T15:51:35.647
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            331                 499901              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             46                  26421               0                   
+TimeStamp:2015-09-24T15:51:37.553
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            416                 615260              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2585                0                   
+Default                       3                   300kbps             49                  23249               0                   
+TimeStamp:2015-09-24T15:51:39.886
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            336                 508704              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             44                  2411                0                   
+Default                       3                   300kbps             43                  21118               0                   
+TimeStamp:2015-09-24T15:51:42.197
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            408                 615360              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             56                  22813               0                   
+TimeStamp:2015-09-24T15:51:44.511
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            407                 614985              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2550                0                   
+Default                       3                   300kbps             41                  21049               0                   
+TimeStamp:2015-09-24T15:51:46.836
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            413                 609485              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             42                  21103               0                   
+TimeStamp:2015-09-24T15:51:49.182
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            404                 611656              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             47                  2585                0                   
+Default                       3                   300kbps             44                  21255               0                   
+TimeStamp:2015-09-24T15:51:51.099
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            413                 624165              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             49                  2681                0                   
+Default                       3                   300kbps             42                  21166               0                   
+TimeStamp:2015-09-24T15:51:53.409
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            339                 512011              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             38                  20437               0                   
+TimeStamp:2015-09-24T15:51:55.317
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            393                 593769              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             40                  20631               0                   
+TimeStamp:2015-09-24T15:51:57.226
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            353                 518441              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:51:59.771
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            373                 563509              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             43                  2357                0                   
+Default                       3                   300kbps             39                  20774               0                   
+TimeStamp:2015-09-24T15:52:01.896
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            442                 666836              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             52                  2808                0                   
+Default                       3                   300kbps             46                  21369               0                   
+TimeStamp:2015-09-24T15:52:04.241
+In_the_last_3.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            336                 508704              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:52:06.150
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            194                 292268              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             46                  2484                0                   
+Default                       3                   300kbps             42                  21147               0                   
+TimeStamp:2015-09-24T15:52:08.048
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            11                  3310                0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             54                  2964                0                   
+Default                       3                   300kbps             55                  21860               0                   
+TimeStamp:2015-09-24T15:52:09.922
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2262                0                   
+Default                       3                   300kbps             40                  20505               0                   
+TimeStamp:2015-09-24T15:52:11.809
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             43                  21211               0                   
+TimeStamp:2015-09-24T15:52:13.922
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            23                  6664                0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             56                  4782                0                   
+Default                       3                   300kbps             43                  21207               0                   
+TimeStamp:2015-09-24T15:52:15.829
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   582                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             45                  3788                0                   
+Default                       3                   300kbps             46                  21375               0                   
+TimeStamp:2015-09-24T15:52:17.744
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             41                  20759               0                   
+TimeStamp:2015-09-24T15:52:19.647
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             46                  21540               0                   
+TimeStamp:2015-09-24T15:52:21.989
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2160                0                   
+Default                       3                   300kbps             43                  20859               0                   
+TimeStamp:2015-09-24T15:52:23.893
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            -20968              -31376945           0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             -3907               -217426             0                   
+Default                       3                   300kbps             -3459               -1598210            0                   
+TimeStamp:2015-09-24T15:52:25.782
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             45                  21423               0                   
+TimeStamp:2015-09-24T15:52:27.659
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2219                0                   
+Default                       3                   300kbps             40                  22363               0                   
+TimeStamp:2015-09-24T15:52:29.549
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             41                  20926               0                   
+TimeStamp:2015-09-24T15:52:31.469
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            4                   1031                0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20559               0                   
+TimeStamp:2015-09-24T15:52:33.388
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   54                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             33                  20075               0                   
+TimeStamp:2015-09-24T15:52:35.273
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   335                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             40                  20773               0                   
+TimeStamp:2015-09-24T15:52:37.155
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:52:39.062
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             42                  20980               0                   
+TimeStamp:2015-09-24T15:52:40.986
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            3                   505                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20481               0                   
+TimeStamp:2015-09-24T15:52:42.890
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             37                  20511               0                   
+TimeStamp:2015-09-24T15:52:44.769
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20299               0                   
+TimeStamp:2015-09-24T15:52:46.658
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   582                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:52:48.560
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2207                0                   
+Default                       3                   300kbps             44                  21213               0                   
+TimeStamp:2015-09-24T15:52:50.447
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             39                  20550               0                   
+TimeStamp:2015-09-24T15:52:52.331
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2010                0                   
+Default                       3                   300kbps             34                  20077               0                   
+TimeStamp:2015-09-24T15:52:54.220
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2160                0                   
+Default                       3                   300kbps             47                  21581               0                   
+TimeStamp:2015-09-24T15:52:56.123
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             36                  1944                0                   
+Default                       3                   300kbps             446                 42957               124                 
+TimeStamp:2015-09-24T15:52:58.012
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            8                   528                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             49                  21947               0                   
+TimeStamp:2015-09-24T15:52:59.890
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             41                  21194               0                   
+TimeStamp:2015-09-24T15:53:01.760
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20473               0                   
+TimeStamp:2015-09-24T15:53:03.662
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2010                0                   
+Default                       3                   300kbps             50                  21977               0                   
+TimeStamp:2015-09-24T15:53:05.560
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             49                  21659               0                   
+TimeStamp:2015-09-24T15:53:07.456
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             43                  21163               0                   
+TimeStamp:2015-09-24T15:53:09.342
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             50                  26684               0                   
+TimeStamp:2015-09-24T15:53:11.237
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20659               0                   
+TimeStamp:2015-09-24T15:53:13.153
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20547               0                   
+TimeStamp:2015-09-24T15:53:15.040
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  21005               0                   
+TimeStamp:2015-09-24T15:53:16.916
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   347                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20293               0                   
+TimeStamp:2015-09-24T15:53:18.807
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:53:20.711
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            4                   619                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             43                  21246               0                   
+TimeStamp:2015-09-24T15:53:22.613
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            4                   501                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20579               0                   
+TimeStamp:2015-09-24T15:53:24.498
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            3                   222                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20293               0                   
+TimeStamp:2015-09-24T15:53:26.391
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             36                  1944                0                   
+Default                       3                   300kbps             38                  20789               0                   
+TimeStamp:2015-09-24T15:53:28.303
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            3                   222                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             41                  20913               0                   
+TimeStamp:2015-09-24T15:53:30.191
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2249                0                   
+Default                       3                   300kbps             41                  20794               0                   
+TimeStamp:2015-09-24T15:53:32.074
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2010                0                   
+Default                       3                   300kbps             43                  21059               0                   
+TimeStamp:2015-09-24T15:53:33.967
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:53:35.874
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   355                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:53:37.782
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             40                  20677               0                   
+TimeStamp:2015-09-24T15:53:39.675
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             43                  21246               0                   
+TimeStamp:2015-09-24T15:53:41.556
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             45                  21107               0                   
+TimeStamp:2015-09-24T15:53:43.475
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            8                   528                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             43                  21071               0                   
+TimeStamp:2015-09-24T15:53:45.380
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             36                  20449               0                   
+TimeStamp:2015-09-24T15:53:47.269
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             38                  20641               0                   
+TimeStamp:2015-09-24T15:53:49.146
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             38                  20356               0                   
+TimeStamp:2015-09-24T15:53:51.032
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20863               0                   
+TimeStamp:2015-09-24T15:53:52.932
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   353                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2010                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:53:54.825
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             40                  20677               0                   
+TimeStamp:2015-09-24T15:53:56.716
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2268                0                   
+Default                       3                   300kbps             45                  21279               0                   
+TimeStamp:2015-09-24T15:53:58.618
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             36                  20141               0                   
+TimeStamp:2015-09-24T15:54:00.510
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   463                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             43                  21122               0                   
+TimeStamp:2015-09-24T15:54:02.421
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2250                0                   
+Default                       3                   300kbps             40                  20845               0                   
+TimeStamp:2015-09-24T15:54:04.342
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             34                  20221               0                   
+TimeStamp:2015-09-24T15:54:06.248
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  21129               0                   
+TimeStamp:2015-09-24T15:54:08.140
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2261                0                   
+Default                       3                   300kbps             38                  20293               0                   
+TimeStamp:2015-09-24T15:54:10.032
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2033                0                   
+Default                       3                   300kbps             43                  21122               0                   
+TimeStamp:2015-09-24T15:54:11.941
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             40                  20559               0                   
+TimeStamp:2015-09-24T15:54:13.852
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             42                  21011               0                   
+TimeStamp:2015-09-24T15:54:15.726
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:54:17.608
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             38                  20657               0                   
+TimeStamp:2015-09-24T15:54:19.506
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             44                  21300               0                   
+TimeStamp:2015-09-24T15:54:21.402
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             44                  21489               0                   
+TimeStamp:2015-09-24T15:54:23.290
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             46                  21473               0                   
+TimeStamp:2015-09-24T15:54:25.203
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            2                   355                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  20825               0                   
+TimeStamp:2015-09-24T15:54:27.547
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   1024kbps            5                   330                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             50                  21857               0                   
+TimeStamp:2015-09-24T15:54:29.446
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             -89                 -17137              0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             -2512               -136824             0                   
+Default                       3                   300kbps             -3071               -1385514            -124                
+TimeStamp:2015-09-24T15:54:31.344
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             41                  20939               0                   
+TimeStamp:2015-09-24T15:54:33.232
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             45                  21583               0                   
+TimeStamp:2015-09-24T15:54:35.115
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   335                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             43                  20999               0                   
+TimeStamp:2015-09-24T15:54:37.207
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             43                  2369                0                   
+Default                       3                   300kbps             43                  21059               0                   
+TimeStamp:2015-09-24T15:54:39.110
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             50                  21996               0                   
+TimeStamp:2015-09-24T15:54:41.007
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             42                  21081               0                   
+TimeStamp:2015-09-24T15:54:42.895
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             49                  22103               0                   
+TimeStamp:2015-09-24T15:54:44.782
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             36                  1944                0                   
+Default                       3                   300kbps             41                  20883               0                   
+TimeStamp:2015-09-24T15:54:46.869
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2268                0                   
+Default                       3                   300kbps             50                  26861               0                   
+TimeStamp:2015-09-24T15:54:48.770
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             42                  20893               0                   
+TimeStamp:2015-09-24T15:54:50.675
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             40                  20696               0                   
+TimeStamp:2015-09-24T15:54:52.557
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   580                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             42                  21129               0                   
+TimeStamp:2015-09-24T15:54:54.441
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             36                  20061               0                   
+TimeStamp:2015-09-24T15:54:56.522
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2268                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:54:58.417
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2045                0                   
+Default                       3                   300kbps             43                  21071               0                   
+TimeStamp:2015-09-24T15:55:00.326
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             36                  20436               0                   
+TimeStamp:2015-09-24T15:55:02.214
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             41                  21015               0                   
+TimeStamp:2015-09-24T15:55:04.109
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:55:05.986
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20863               0                   
+TimeStamp:2015-09-24T15:55:07.896
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             41                  20743               0                   
+TimeStamp:2015-09-24T15:55:09.793
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             39                  20646               0                   
+TimeStamp:2015-09-24T15:55:11.667
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             36                  20141               0                   
+TimeStamp:2015-09-24T15:55:13.540
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             8                   528                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             41                  20869               0                   
+TimeStamp:2015-09-24T15:55:15.438
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             36                  1944                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:55:17.338
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             36                  20337               0                   
+TimeStamp:2015-09-24T15:55:19.220
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             43                  21198               0                   
+TimeStamp:2015-09-24T15:55:21.096
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20305               0                   
+TimeStamp:2015-09-24T15:55:22.983
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             41                  20863               0                   
+TimeStamp:2015-09-24T15:55:24.878
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   301                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20657               0                   
+TimeStamp:2015-09-24T15:55:26.773
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             36                  20285               0                   
+TimeStamp:2015-09-24T15:55:28.662
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2314                0                   
+Default                       3                   300kbps             43                  23002               0                   
+TimeStamp:2015-09-24T15:55:30.547
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2111                0                   
+Default                       3                   300kbps             44                  23140               0                   
+TimeStamp:2015-09-24T15:55:32.443
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:55:34.338
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20515               0                   
+TimeStamp:2015-09-24T15:55:36.429
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   347                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2268                0                   
+Default                       3                   300kbps             38                  20577               0                   
+TimeStamp:2015-09-24T15:55:38.318
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:55:40.216
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   698                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             40                  20464               0                   
+TimeStamp:2015-09-24T15:55:42.124
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             42                  21011               0                   
+TimeStamp:2015-09-24T15:55:44.022
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   66                  0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             40                  20677               0                   
+TimeStamp:2015-09-24T15:55:45.908
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:55:47.801
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             36                  20141               0                   
+TimeStamp:2015-09-24T15:55:49.685
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             42                  21068               0                   
+TimeStamp:2015-09-24T15:55:51.588
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20437               0                   
+TimeStamp:2015-09-24T15:55:53.479
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2010                0                   
+Default                       3                   300kbps             38                  20641               0                   
+TimeStamp:2015-09-24T15:55:55.557
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             3                   636                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             42                  2268                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:55:57.441
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             8                   528                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             41                  2261                0                   
+Default                       3                   300kbps             38                  20299               0                   
+TimeStamp:2015-09-24T15:55:59.339
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             37                  2033                0                   
+Default                       3                   300kbps             36                  20612               0                   
+TimeStamp:2015-09-24T15:56:01.237
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   676                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             40                  20809               0                   
+TimeStamp:2015-09-24T15:56:03.140
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             36                  20329               0                   
+TimeStamp:2015-09-24T15:56:05.013
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             43                  21059               0                   
+TimeStamp:2015-09-24T15:56:06.887
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:56:08.980
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2160                0                   
+Default                       3                   300kbps             41                  20951               0                   
+TimeStamp:2015-09-24T15:56:10.892
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             242                 31744               208                 
+TimeStamp:2015-09-24T15:56:12.783
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             3                   646                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             243                 31595               3                   
+TimeStamp:2015-09-24T15:56:14.664
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             33                  20023               0                   
+TimeStamp:2015-09-24T15:56:16.553
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             38                  20701               0                   
+TimeStamp:2015-09-24T15:56:18.459
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2153                0                   
+Default                       3                   300kbps             38                  20577               0                   
+TimeStamp:2015-09-24T15:56:20.359
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             38                  20632               0                   
+TimeStamp:2015-09-24T15:56:22.247
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20755               0                   
+TimeStamp:2015-09-24T15:56:24.125
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:56:26.020
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   281                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2195                0                   
+Default                       3                   300kbps             43                  21062               0                   
+TimeStamp:2015-09-24T15:56:27.914
+In_the_last_1.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             2                   367                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             40                  2207                0                   
+Default                       3                   300kbps             44                  20983               0                   
+TimeStamp:2015-09-24T15:56:29.799
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             0                   0                   0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2141                0                   
+Default                       3                   300kbps             39                  20774               0                   
+TimeStamp:2015-09-24T15:56:31.679
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   397                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             38                  2052                0                   
+Default                       3                   300kbps             37                  20239               0                   
+TimeStamp:2015-09-24T15:56:33.570
+In_the_last_2.0_seconds
+TypeofService                 Priority            BandwidthAllocated  PacketsCount        BytesCount          DelayedPackets      
+Video_and_Audio_streaming     0                   300kbps             1                   279                 0                   
+Application_transaction_data  1                   400kbps             0                   0                   0                   
+FTP,_HTTP,_HTTPS,_SSH         2                   300kbps             39                  2118                0                   
+Default                       3                   300kbps             39                  20755               0                   
