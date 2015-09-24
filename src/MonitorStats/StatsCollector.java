@@ -90,9 +90,22 @@ public class StatsCollector {
 				DataplanePolicyDescription.getDataplanePolicyDescription(policyName);
 				HashMap<Integer, String> descMap=DataplanePolicyDescription.getDescMap();
 				HashMap<Integer, String> bwMap=DataplanePolicyDescription.getBwMap();
+				
+				
 				if(secDiff!=-1.0)
 					prettyprintData(descMap, bwMap, secDiff, currTime, allTrafficClasses);
 				prevCumulativeAllTrafficClasses = CumulativeAllTrafficClasses;
+				
+				
+				if(!allTrafficClasses.isEmpty()){
+					long newTailDrop=allTrafficClasses.get(0).getTailDrop();
+					Analyser.monitor(newTailDrop);
+					
+					
+				}
+				
+				
+				
 
 			}
 		} catch (Exception e) {
