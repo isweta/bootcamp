@@ -99,7 +99,7 @@ public class StatsCollector {
 				
 				if(!allTrafficClasses.isEmpty()){
 					long newTailDrop=allTrafficClasses.get(0).getTailDrop();
-					Analyser.monitor(newTailDrop);
+					Analyser.monitor(policyName, bwMap.get(0), newTailDrop);
 					
 					
 				}
@@ -248,14 +248,22 @@ public class StatsCollector {
 		System.out.println("\nInterface: dp0p224p1");
 		System.out.println("Qos Policy :" + QosPolicy);
 		while (true) {
-
+			
 			String loc = executeOp();
+			
 			int res;
 			while (true) {
+				
 				res = getOutput(loc);
 				if (res == 200)
 					break;
-
+				
+			}
+			try {
+				Thread.sleep(3000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
 
 		}

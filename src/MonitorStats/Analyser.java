@@ -8,7 +8,7 @@ public class Analyser {
 	
 	static ArrayList<Long> tailDropList10=new ArrayList<Long>();
 	
-	public static void monitor(long newTailDrop){
+	public static void monitor(String policyName, String bw, long newTailDrop){
 
 		if(Analyser.tailDropList10.size()<10)
 			Analyser.buildBuffer(newTailDrop);
@@ -16,28 +16,58 @@ public class Analyser {
 			Analyser.modifyBuffer(newTailDrop);
 			boolean congestion=Analyser.analyse();
 			if(congestion==true){
+				clearList();
 				PolicyPusher.pushNewPolicy("1024kbps");
+				logPolicyChange(policyName, bw, congestion);
+				try {
+					Thread.sleep(10000);
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				System.out.println("Pushed a new policy");
 				
 				
+			}else
+			{
+				logPolicyChange(policyName, bw, congestion);
 			}
-			logPolicyChange(congestion);
+			
 				
 		}
 			
 	}
+	public static void clearList(){
+		for(int i=0; i<tailDropList10.size(); i++){
+			tailDropList10.set(i, 0l);
+		}
+	}
 	
-	public static void logPolicyChange(boolean congestion){
+	public static void logPolicyChange(String policyName, String bw,boolean congestion){
 		FileWriter foutLog;
 		try {
 			foutLog = new FileWriter("C:\\Users\\Public\\Documents\\files\\src\\MonitorStats\\policyChangeLog.txt");
+			foutLog.append("\nQos Policy Name: "+policyName);
+			//if(!congestion)
+			foutLog.append("\nReal-Time Traffic Bandwidth: "+bw);
+			/*else
+				foutLog.append("\nReal-Time Traffic Bandwidth: 1024kbps");*/
+			
+			foutLog.append("\nPacket Delay Count- in last 10 intervals");
+			for(long temp:tailDropList10)
+				foutLog.append("\n"+temp);
+			
+			foutLog.append("\nNo of Intervals that experienced packet delay (Threshold/Tolerance=7)= "+ getCountTaildropInterval());
 			if(congestion){
-				foutLog.append("Congestion Detected!!");
-				foutLog.append("\n Changed the policy to manage congestion");
+				foutLog.append("\nCongestion Detected!!");
+				foutLog.append("\nReached the threshold set, push a Qos policy change to upgrade the bandwidth ");
+				foutLog.append("\nQos Policy upgrade push is complete");
 				System.out.println("wrote");
 			}else{
 				
-				foutLog.append("Monitoring in Progress");
+				
+				foutLog.append("\nNo Congestion Yet.....Monitoring in Progress....");
+				
 			}
 				
 						
@@ -49,15 +79,22 @@ public class Analyser {
 			e.printStackTrace();
 		}
 	}
-	
-	public static boolean analyse(){
+	public static int getCountTaildropInterval(){
 		int count=0;
 		for(long temp: tailDropList10){
 			if(temp>0)
 				count++;
 		}
+		return count;
+	}
+	
+	public static boolean analyse(){
 		
-		if(count>5)
+		int count=getCountTaildropInterval();
+		
+		
+		
+		if(count>7)
 			return true;
 		else
 			return false;
