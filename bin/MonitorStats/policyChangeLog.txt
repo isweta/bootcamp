@@ -5,12 +5,12 @@ Packet Delay Count- in last 10 intervals
 0
 0
 0
--261
 0
 0
 0
 0
 0
 0
-No of Intervals that experienced packet delay (Threshold/Tolerance=5)= 0
+0
+No of Intervals that experienced packet delay (Threshold/Tolerance=7)= 0
 No Congestion Yet.....Monitoring in Progress....
